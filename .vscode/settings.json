@@ -1,5 +1,7 @@
 {
     "jupyter.kernels.excludePythonEnvironments": [
         "/usr/bin/python3.11"
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
